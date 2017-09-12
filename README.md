@@ -18,3 +18,6 @@ test7
 
 EX6:
 test8
+
+EX7:
+test9
