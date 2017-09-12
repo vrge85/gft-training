@@ -6,3 +6,6 @@ test2
 EX2:
 test3
 test4
+
+EX3:
+test5
